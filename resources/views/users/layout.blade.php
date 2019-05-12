@@ -197,7 +197,7 @@
 
                 <!-- Modal Header -->
                 <div class="modal-header">
-                    <h4 class="modal-title"><strong>หมวดหมู่</strong></h4>
+                    <h4 class="modal-title"><strong>หมวดหมู่111</strong></h4>
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
                 </div>
 
