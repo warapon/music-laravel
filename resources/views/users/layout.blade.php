@@ -64,7 +64,7 @@
         {{-- <button class="show-mobile btn btn-primary" id="menu-toggle">หมวดหมู่</button> --}}
         <button class="show-mobile btn btn-primary" data-toggle="modal" data-target="#myModal">หมวดหมู่</button>
         <a class="navbar-brand" href="#">
-                <img class="header_logo" src="/images/logo/logo.png" alt="Logo">
+                <img class="header_logo" src="/images/logo/logomajor.png" alt="Logo">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03"
             aria-expanded="false" aria-label="Toggle navigation">
@@ -111,13 +111,13 @@
         <!-- The slideshow -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="/images/banner/bannerdesigning.jpg" alt="Los Angeles" width="1100" height="500">
+                <img src="/images/banner/banner.jpg" alt="Los Angeles" width="1100" height="500">
             </div>
             <div class="carousel-item">
-                <img src="/images/banner/bannerdesigning.jpg" alt="Chicago" width="1100" height="500">
+                <img src="/images/banner/banner.jpg" alt="Chicago" width="1100" height="500">
             </div>
             <div class="carousel-item">
-                <img src="/images/banner/bannerdesigning.jpg" alt="New York" width="1100" height="500">
+                <img src="/images/banner/banner.jpg" alt="New York" width="1100" height="500">
             </div>
         </div>
 
