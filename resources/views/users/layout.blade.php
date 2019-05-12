@@ -138,7 +138,7 @@
                 <section class="content container-fluid"> --}}
                     <div class="card">
                         <div class="card-body">
-                            <h4><strong>หมวดหมู่</strong></h4>
+                            <h4><strong>หมวดหมู่111</strong></h4>
                             <div class="card border-success mb-3" style="max-width: 20rem;">
                                 <div class="card-header bg-success text-white"><strong><i class="fab fa-itunes-note"></i> โน๊ตสากลเบื้องต้น</strong></div>
                                 <div class="card-body">
@@ -197,7 +197,7 @@
 
                 <!-- Modal Header -->
                 <div class="modal-header">
-                    <h4 class="modal-title"><strong>หมวดหมู่111</strong></h4>
+                    <h4 class="modal-title"><strong>หมวดหมู่</strong></h4>
                     <button type="button" class="close" data-dismiss="modal">&times;</button>
                 </div>
 
