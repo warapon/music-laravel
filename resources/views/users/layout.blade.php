@@ -81,14 +81,17 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/">หน้าหลัก <span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="nav-item">
+                    {{-- <li class="nav-item">
                         <a class="nav-link" href="#">ผลงาน</a>
-                    </li>
-                    <li class="nav-item">
+                    </li> --}}
+                    {{-- <li class="nav-item">
                         <a class="nav-link" href="#">ดาวห์โหลดคู่มือ</a>
+                    </li> --}}
+                    <li class="nav-item">
+                        <a class="nav-link" href="/producer">ผู้จัดทำ</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">ผู้จัดทำ</a>
+                        <a class="nav-link" href="/instype">ผู้ดูแล</a>
                     </li>
                 </ul>
             </div>

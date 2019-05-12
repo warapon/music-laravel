@@ -20,6 +20,9 @@ Route::get('/', function () {
 Route::get('intype', function () {
     return view('webpage.home');
 });
+Route::get('producer', function () {
+    return view('webpage.producer');
+});
 
 Route::get('intype/{id}', 'IntypePageController@index');
 Route::get('intype/{id}/detail', 'DetailsController@index');
